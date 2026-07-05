@@ -1,0 +1,12 @@
+# Ignore the massive Kaggle dataset
+Data/
+
+# Ignore Python cache files
+__pycache__/
+pages/__pycache__/
+Utils/__pycache__/
+
+# Ignore local virtual environments (if any)
+.venv/
+venv/
+env/
